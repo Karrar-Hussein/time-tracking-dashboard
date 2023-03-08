@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [here](https://www.frontendmentor.io/solutions/responsive-time-tracking-dashboard-created-with-react-and-vite-59xG0rnLqZ)
-- Live Site URL: [here](https://time-tracking-dashboard-86235a.netlify.app/)
+- Solution URL: <a href="https://www.frontendmentor.io/solutions/responsive-time-tracking-dashboard-created-with-react-and-vite-59xG0rnLqZ" target="_blank">here</a>
+- Live Site URL: <a href="https://time-tracking-dashboard-86235a.netlify.app/" target="_blank">here</a>
 
 ## My process
 
