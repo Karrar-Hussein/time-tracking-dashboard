@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [here](https://www.frontendmentor.io/solutions/responsive-time-tracking-dashboard-created-with-react-and-vite-59xG0rnLqZ)
 - Live Site URL: [here](https://time-tracking-dashboard-86235a.netlify.app/)
 
 ## My process
